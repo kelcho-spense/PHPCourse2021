@@ -1,5 +1,5 @@
 # PHP Course 2020
-## Final version - *All code written during the video is there*
+## Final version
 The video covers all the basic things about PHP. 
 
  - Comments
